@@ -12,3 +12,4 @@ chardet
 aiohttp
 pyfiglet
 pytelegrambotapi
+colorama
